@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Educación</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <svg>
+        <image xlink:href="C:\Users\Alejo\Desktop\NXT U/hojadevidaAG/icon.svg" width="100px" height="100px"></image>
+    </svg>
+    <h1>CURRICULUM VITAE</h1>
+    <H2>Datos personales</H2>
+    <h3>
+    NOMBRE:Edwin Alejandro </h3>
+    <h3>APELLIDOS:Garzón Bernal</h3>
+    <h3>EDAD:23</h3>
+    <h3>FECHA DE NACIMIENTO:24/04/1995</h3>
+    <h3>LIBRETA MILITAR:SI</h3>
+    <h3>NUMERO DE CELULAR:302-210-88-89</h3>
+    <p>
+        <a href="hojadevidaAG.html">Inicio</a>
+        |
+        <a href="Educación.html">Educación</a>
+        |
+        <a href="Experiencia.html">Experiencia</a>
+        
+        <h4> <id="Inicio.html"Inicio</h4>
+        <h4> <id="Educación.html"Educación</h4>
+        <h4> <id="Experiencia.html"Experiencia</h4>
+    </p>
+<h2>Educación</h2>
+<table border="1" bordercolor="#272D52" bgcolor="amarillo" cellpadding="10", cellspacing="0">
+<tr>
+    <thead> 
+  <th>Año
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+        <p><label for="Nombre de usuario"></label></br>
+            <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+    </th>
+  
+  <td>Institución
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+  </td>
+  <td>Lugar
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+        <p><label for="Nombre de usuario"></label></br>
+            <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+  
+    </td>
+  <td>¿Culmino?
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+    <p><label for="Nombre de usuario"></label></br>
+        <input id="Nombre de usuario" type="text"placeholder=""size="30px"autofocus required>
+  </td>
+    </tr>
+  </thead>
+
+
+</table>
+<h2>Agregar estudios</h2>
+<p>Año:</p>
+<select name="select1">
+<option Value=""disabled selected>Seleccione año de culminación de estudios</option>
+    <option>1930</option>
+    <option>1931</option>
+    <option>1932</option>
+    <option>1933</option>
+    <option>1934</option>
+    <option>1934</option>
+    <option>1935</option>
+    <option>1936</option>
+    <option>1937</option>
+    <option>1938</option>
+    <option>1939</option>
+    <option>1940</option>
+    <option>1941</option>
+    <option>1942</option>
+    <option>1943</option>
+    <option>1944</option>
+    <option>1945</option>
+    <optio>1946</option>
+    <option>1947</option>
+    <optio >1948</option>
+    <option>1949</option>
+    <option>1950</option>
+    <option>1951</option>
+    <option>1952</option>
+    <option>1953</option>
+    <option>1954</option>
+    <option>1955</option>
+    <option>1956</option>
+    <option>1957</option>
+    <option>1958</option>
+    <option>1959</option>
+    <option>1960</option>
+    <option>1961</option>
+    <option>1962</option>
+    <option>1963</option>
+    <option>1964</option>
+    <option>1965</option>
+    <option>1966</option>
+    <option>1967</option>
+    <option>1968</option>
+    <option>1969</option>
+    <option>1970</option>
+    <option>1971</option>
+    <option>1972</option>
+    <option>1973</option>
+    <option >1974</option>
+    <option>1975</option>
+    <option >1976</option>
+    <option>1977</option>
+    <option>1978</option>
+    <option>1979</option>
+    <option>1980</option>
+    <option>1981</option>
+    <option>1982</option>
+    <option>1983</option>
+    <option>1984</option>
+    <option>1985</option>
+    <option>1986</option>
+    <option>1987</option>
+    <option>1988</option>
+    <option>1989</option>
+    <option>1990</option>
+    <option>1991</option>
+    <option>1992</option>
+    <option>1993</option>
+    <option>1994</option>
+    <option>1995</option>
+    <option>1996</option>
+    <option>1997</option>
+    <option>1998</option>
+    <option>1999</option>
+    <option>2000</option>
+    <option>2001</option>
+    <option>2002</option>
+    <option>2003</option>
+    <option>2004</option>
+    <option>2005</option>
+    <option>2006</option>
+    <option>2007</option>
+    <option>2008</option>
+    <option>2009</option>
+    <option>2010</option>
+    <option>2011</option>
+    <option>2012</option>
+    <option >2013</option>
+    <option>2014</option>
+    <option>2015</option>
+    <option>2016</option>
+    <option>2017</option>
+    <option>2018</option>
+</option>
+    </select>
+    <p>Institución:</br>
+        
+        <input id="Institución" type="text"placeholder="Institución	"size="30px"autofocus required>
+        
+         <p>Lugar:</br>
+           
+         <input id="Lugar" type="text"placeholder="Lugar"size="30px"autofocus required>
+         <br></br>
+     <label for="Enviar"</label>
+    <input type="submit" value="Enviar">
+    <footer>
+            <p>Correo electronico:Bulldoggyniw@gmail.com</p>
+            <p>Telefono:7314086</p>
+            
+            </footer>
+            
+
+</body>
+</html>
